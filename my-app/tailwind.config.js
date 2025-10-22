@@ -3,7 +3,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        quattro: ["Quattrocento", "serif"],
+        quattro: ['"Quattrocento"', "serif"],
         alice: ["Alice", "serif"],
       },
     },

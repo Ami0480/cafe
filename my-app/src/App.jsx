@@ -12,7 +12,7 @@ function App() {
         <div className="flex flex-col items-center justify-center">
           <h1
             className="text-7xl text-white
-           font-[quattro]"
+           "
           >
             Cafe
           </h1>

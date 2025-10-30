@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 import "./App.css";
 
 import icedCoffee from "./images/iced-coffee.png";
@@ -19,6 +21,7 @@ function App() {
           <h2 className="text-2xl text-white font-[alice]">in Perth</h2>
         </div>
       </div>
+      <Link to=".Menu"></Link>
     </div>
   );
 }

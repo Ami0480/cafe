@@ -10,7 +10,7 @@ export default function Home() {
         style={{ backgroundImage: `url(${icedCoffee})` }}
         className="w-full h-screen flex items-center justify-center bg-cover bg-center"
       >
-        <div className="flex flex-col items-center justify-center">
+        <div className="flex flex-col items-center justify-center container">
           <h1 className="text-7xl text-white font-quattro font-ultra mb-3">
             Cafe
           </h1>

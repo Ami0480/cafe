@@ -5,3 +5,7 @@
   --font-ultra: "Ultra", serif;
   --font-outfit: "Outfit", sans-serif;
 }
+
+.container {
+  @apply p-10;
+}
